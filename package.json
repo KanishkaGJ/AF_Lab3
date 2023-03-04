@@ -1,0 +1,22 @@
+{
+  "name": "af_lab3",
+  "version": "1.0.0",
+  "description": "This is the lab3 exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanishkaGJ/AF_Lab3.git"
+  },
+  "keywords": [
+    "lab3AF"
+  ],
+  "author": "kanishkagj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanishkaGJ/AF_Lab3/issues"
+  },
+  "homepage": "https://github.com/KanishkaGJ/AF_Lab3#readme"
+}
