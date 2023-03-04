@@ -23,3 +23,5 @@ resp.on('end', () => { console.log(JSON.parse(data));
 });
 }).on('error', (err) => {
 console.log("Error: " + err.message); });
+
+const myModule = require('./my-module.js'); console.log(myModule.myFunction());
